@@ -6,35 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:기상청 날씨
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
-SUMMARY:☁️ 21°C/27°C 🟡🟡
-DTSTART;VALUE=DATE:20260607
-DTEND;VALUE=DATE:20260608
-DTSTAMP:20260607T103522Z
-UID:20260607@short_summary
-DESCRIPTION:📍 나주집 날씨 (위경도 35.007\, 126.783)\n\n☁️ 
- 지금 날씨: 흐림\n기온: 25°C (☀️ 따뜻해요)\n최고 온도:
-  27°C / 최저 온도: 21°C\n습도: 70%\n바람: 2 m/s (남실바람 
- — 잎이 바스락거림) (서북서쪽에서) \n오늘은 🌂 우산 
- 챙기는 게 안전해요 (비올 확률 30%)\n다음 비🌧 : 예보 
- 기간 내 강수 없음\n\n🙂 오늘 공기는 보통이에요\n미세
- 먼지 (PM10): 25.5 ㎍/㎥ (🟢 좋음)\n초미세먼지 (PM2.5): 16.1 
- ㎍/㎥ (🟡 보통)\n오존(O₃): 0.0 ppm (🟢 좋음)\n자외선 (오
- 늘 최대): 6.0 (🟠 높음)\n\n☁️ 내일은?\n최고 24°C (☀️ 
- 따뜻해요) / 최저 16°C (😊 쾌적해요)\n오전: ☁️ 흐림 / 
- 오후: ☁️ 흐림\n\n☀️ 오늘 해는?\n🌅 일출: 오늘 05:19\
- n🌇 일몰: 오늘 19:44\n🌆 시민박명: 오늘 04:49 ~ 오늘 20:14
- \n🌃 천문박명: 오늘 03:33 ~ 오늘 21:30\n\n🌖 달은?\n위상: 
- 하현전 기우는달 (조도 60%)\n🌒 월출: 내일 00:29\n🌘 월
- 몰: 오늘 11:09\n\n🌌 은하수 추적\n🔭 지금 상황: 관측불
- 가 — 지평선 아래 (고도 -12.7°)\n달 고도: -56.5°\n⏰ 오늘
-  밤 관측 가능 시간대: 오늘 21:30 ~ 내일 03:33\n\n⏱ 시간별
-  상세\n[20시] ☁️ 흐림 25°C (💧70% 🚩2m/s)\n[21시] ☁️ 
- 흐림 23°C (💧70% 🚩2m/s)\n[22시] ☁️ 흐림 21°C (💧70% 🚩
- 1m/s)\n[23시] ☁️ 흐림 21°C (💧75% 🚩2m/s)\n\n📊 최종 업
- 데이트: 2026-06-07 19:35:22 (KST)
-LOCATION:나주집
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:☁️ 16°C/24°C 🟡🟡
 DTSTART;VALUE=DATE:20260608
 DTEND;VALUE=DATE:20260609
@@ -123,63 +94,63 @@ DESCRIPTION:[오전] ☀️ 맑음 (☔10%)\n[오후] ☀️ 맑음 (☔10
 LOCATION:나주집
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:☀️ 13/28°C
+SUMMARY:☀️ 14/28°C
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260613
-DTSTAMP:20260607T124838Z
+DTSTAMP:20260607T154211Z
 UID:20260612@mid
 DESCRIPTION:[오전] ☀️ 맑음 (☔10%)\n[오후] ☀️ 맑음 (☔10
- %)\n\n최종 업데이트: 2026-06-07 21:48:38 (KST)
+ %)\n\n최종 업데이트: 2026-06-08 00:42:11 (KST)
 LOCATION:나주집
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:☀️ 15/29°C
 DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20260614
-DTSTAMP:20260607T124838Z
+DTSTAMP:20260607T154211Z
 UID:20260613@mid
 DESCRIPTION:[오전] ☀️ 맑음 (☔10%)\n[오후] ☀️ 맑음 (☔10
- %)\n\n최종 업데이트: 2026-06-07 21:48:38 (KST)
+ %)\n\n최종 업데이트: 2026-06-08 00:42:11 (KST)
 LOCATION:나주집
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:☀️ 17/28°C
+SUMMARY:⛅ 16/29°C
 DTSTART;VALUE=DATE:20260614
 DTEND;VALUE=DATE:20260615
-DTSTAMP:20260607T124838Z
+DTSTAMP:20260607T154211Z
 UID:20260614@mid
-DESCRIPTION:[오전] ☀️ 맑음 (☔10%)\n[오후] ☀️ 맑음 (☔10
- %)\n\n최종 업데이트: 2026-06-07 21:48:38 (KST)
+DESCRIPTION:[오전] ☀️ 맑음 (☔10%)\n[오후] ⛅ 구름많음 (
+ ☔20%)\n\n최종 업데이트: 2026-06-08 00:42:11 (KST)
 LOCATION:나주집
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛅ 16/30°C
+SUMMARY:⛅ 17/28°C
 DTSTART;VALUE=DATE:20260615
 DTEND;VALUE=DATE:20260616
-DTSTAMP:20260607T124838Z
+DTSTAMP:20260607T154211Z
 UID:20260615@mid
 DESCRIPTION:[종일] ⛅ 구름많음 (☔20%)\n\n최종 업데이트: 202
- 6-06-07 21:48:38 (KST)
+ 6-06-08 00:42:11 (KST)
 LOCATION:나주집
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛅ 18/30°C
+SUMMARY:⛅ 17/29°C
 DTSTART;VALUE=DATE:20260616
 DTEND;VALUE=DATE:20260617
-DTSTAMP:20260607T124838Z
+DTSTAMP:20260607T154211Z
 UID:20260616@mid
 DESCRIPTION:[종일] ⛅ 구름많음 (☔20%)\n\n최종 업데이트: 202
- 6-06-07 21:48:38 (KST)
+ 6-06-08 00:42:11 (KST)
 LOCATION:나주집
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛅ 19/29°C
+SUMMARY:⛅ 18/28°C
 DTSTART;VALUE=DATE:20260617
 DTEND;VALUE=DATE:20260618
-DTSTAMP:20260607T124838Z
+DTSTAMP:20260607T154211Z
 UID:20260617@mid
 DESCRIPTION:[종일] ⛅ 구름많음 (☔20%)\n\n최종 업데이트: 202
- 6-06-07 21:48:38 (KST)
+ 6-06-08 00:42:11 (KST)
 LOCATION:나주집
 END:VEVENT
 END:VCALENDAR
